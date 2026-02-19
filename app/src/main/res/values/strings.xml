@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">拾念</string>
+    <string name="app_name_en">ShiNian</string>
+    
+    <!-- 录音状态 -->
+    <string name="recording_status_idle">轻触开始</string>
+    <string name="recording_status_meeting">正在记录会议…</string>
+    <string name="recording_status_flash">松手结束录音…</string>
+    <string name="recording_status_processing">AI 整理中…</string>
+    
+    <!-- 提示文字 -->
+    <string name="hint_meeting_flash">短按会议 · 长按闪念</string>
+    <string name="hint_stop_recording">再次点击结束</string>
+    <string name="hint_release_to_stop">松手结束录音</string>
+    
+    <!-- 底部标签 -->
+    <string name="tab_capture">记录</string>
+    <string name="tab_notes">笔记</string>
+    
+    <!-- 笔记类型 -->
+    <string name="note_type_meeting">会议</string>
+    <string name="note_type_idea">灵感</string>
+    <string name="note_type_todo">待办</string>
+    
+    <!-- 按钮操作 -->
+    <string name="action_expand">展开全文</string>
+    <string name="action_collapse">收起</string>
+    <string name="action_play">播放</string>
+    <string name="action_convert">修改类型</string>
+    <string name="action_delete">删除</string>
+</resources>
